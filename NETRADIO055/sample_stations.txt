@@ -1,0 +1,7 @@
+Groove Salad,http://ice1.somafm.com/groovesalad-128-mp3
+Drone Zone,http://ice1.somafm.com/dronezone-128-mp3
+Secret Agent,http://ice1.somafm.com/secretagent-128-mp3
+BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+Classical King FM,http://classicalking.streamguys1.com/king-fm-mp3
+Jazz24,http://live.wostreaming.net/direct/kplu-jazz24aac256-ibc1
+KEXP Seattle,http://live-aacplus-64.kexp.org/kexp64.aac
