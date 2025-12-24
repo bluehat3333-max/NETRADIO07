@@ -1,0 +1,87 @@
+# ========================================
+# 新規追加ステーション
+# 追加日: 2025-10-29
+# ========================================
+
+# === Classic FM UK ===
+Classic FM UK,http://ice-the.musicradio.com/ClassicFMMP3
+
+# === Klassik Radio Germany (動作確認済み) ===
+Klassik Radio Live,http://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+Klassik Radio National,http://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384
+
+# === RAI Radio 3 Italy (動作確認済み) ===
+RAI Radio 3 Classica,http://icestreaming.rai.it/3.mp3
+
+# === Radio Swiss Classic (動作確認済み) ===
+Radio Swiss Classic,http://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128
+
+# === NRK Klassisk Norway (動作確認済み) ===
+NRK Klassisk,http://lyd.nrk.no/nrk_radio_klassisk_mp3_h
+
+# === Rondo Classic Finland (動作確認済み) ===
+Rondo Classic Klasu PRO,http://iradio.fi:8000/klasupro-hi.mp3
+
+# === WDR 3 Germany (動作確認済み) ===
+WDR 3,http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+
+# === All Classical Portland USA (動作確認済み) ===
+All Classical Portland,http://allclassical.streamguys1.com/ac96kmp3
+
+# === KUSC Los Angeles USA (動作確認済み) ===
+っっs KUSC Los Angeles,http://streams.kusc.org/kusc128.mp3
+
+# === Classical MPR Minnesota USA (動作確認済み) ===
+　っっっっwClassical MPR,http://classical-mpr.stream.publicradio.org/classical-mpr.mp3
+
+# ========================================
+# Music-Style.info参照 ジャズステーション
+# 追加日: 2025-10-29
+# ========================================
+
+# === Europa Radio Jazz (動作確認済み) ===
+Europa Radio Jazz HD,streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83
+Europa Radio Jazz,streams.radiomast.io/e947f0b4-cf71-4ed7-934d-2f4661acb0a3
+
+# === NRK Jazz Norway (動作確認済み) ===
+NRK Jazz,lyd.nrk.no/nrk_radio_jazz_mp3_h
+
+# === Live365 KKJZ (動作確認済み) ===
+KKJZ Live365,streaming.live365.com/a49833
+
+# === KMHD Portland (動作確認済み) ===
+KMHD 89.1 AAC,ais-sa3.cdnstream1.com/2442_128.aac
+
+# === Jazz.FM91 Toronto (動作確認済み) ===
+Jazz.FM91 Main,stream.jazz.fm:8000/cjrt.mp3
+
+
+# === Radio Clasic Romania (動作確認済み) ===
+Radio Clasic Vivaldi,radioclasic.ro:8816/stream
+Radio Clasic Vivaldi Alt,radioclasic.ro:8776/stream
+Radio Clasic FM,radioclasic.ro:8007/stream
+Radio Clasic Hits,radioclasic.ro:8576/stream
+Radio Clasic Summer,radioclasic.ro:8786/stream
+
+
+# === Radcap.ru Renaissance Radio (動作確認済み) ===
+# ロシアのルネサンス音楽専門ラジオ（3つのミラーサーバー）
+Renaissance Radio 1,213.141.131.10:8002/renaissance
+Renaissance Radio 2,213.141.131.10:8000/renaissance
+Renaissance Radio 3,213.141.131.10:8004/renaissance
+
+
+# === Laut.fm Baroque & Classical Stations (動作確認推奨) ===
+# ドイツのインターネットラジオプラットフォーム - 無料・認証不要
+Laut.fm Baroque Sonatas,stream.laut.fm/baroque_sonatas_radio
+Laut.fm Classical,stream.laut.fm/classical
+Laut.fm Baroque,stream.laut.fm/baroque
+Laut.fm Piano Classics,stream.laut.fm/piano-classics
+Laut.fm Chamber Music,stream.laut.fm/chamber-music
+
+
+# === 1.FM Baroque (動作確認推奨) ===
+# スイスのオンラインラジオ - Otto's Baroque Music
+1.FM Baroque MP3,www.1.fm/streams/baroque128.mp3
+1.FM Baroque AAC,www.1.fm/streams/baroque.aac
+

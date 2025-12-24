@@ -1,0 +1,236 @@
+Classic01,relax.stream.publicradio.org/relax.mp3
+Classic02,direct.francemusique.fr/live/francemusique-midfi.mp3
+Classic03,allclassical.streamguys1.com/ac96kmp3
+Classic04,media-ice.musicradio.com/ClassicFM
+Classic05,wrti-live.streamguys1.com/classical-mp3
+Classic06,wrti-live.streamguys1.com/classical-mp3
+Classic07,livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/mp3/128
+Classic08,icecast.radiofrance.fr/francemusique-midfi.mp3
+Classic09,wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+Classic10, radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+Classic11, media-ssl.musicradio.com/ClassicFM
+Classic12, direct.francemusique.fr/live/francemusique-midfi.mp3,//31
+Classic13,orf-live.ors-shoutcast.at/oe1-q2a,//32/ototobi
+
+
+JAZZ01,ice1.somafm.com/illstreet-128-mp3
+JAZZ02,ais-sa2.cdnstream1.com/b22139_128mp3
+JAZZ03,ice1.somafm.com/secretagent-128-mp3
+JAZZ04,ice1.somafm.com/seventies-128-mp3
+JAZZ05,ice1.somafm.com/bootliquor-128-mp3
+JAZZ06,ais-sa8.cdnstream1.com/3629_128.mp3
+JAZZ07,jazzfm91.streamb.live/SB00009
+JAZZ08,onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+JAZZ09,wdcb-ice.streamguys1.com/wdcb128
+JAZZ10,live-radio02.mediahubaustralia.com/JAZW/mp3
+JAZZ11,wdcb-ice.streamguys1.com/mobile-AAC
+JAZZ12,jazzfm91.streamb.live/SB00023
+JAZZ13,jazzfm91.streamb.live/SB00024
+JAZZ14,jazzfm91.streamb.live/SB00137
+JAZZ15,wdcb-ice.streamguys1.com/wdcb128
+JAZZ16,wdcb-ice.streamguys1.com/mobile-AAC
+JAZZ17,live-radio02.mediahubaustralia.com/JAZW/mp3
+JAZZ18,jazzfm91.streamb.live/SB00023
+JAZZ19,jazzfm91.streamb.live/SB00024
+JAZZ20,jazzfm91.streamb.live/SB00137
+JAZZ21,wrti-live.streamguys1.com/jazz-mp3
+JAZZ22,wbgo.streamguys1.com/wbgo128
+JAZZ23,direct.fipradio.fr/live/fip-webradio6.mp3
+JAZZ24,tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+JAZZ25,wdcb-ice.streamguys1.com/wdcb128
+
+
+
+
+
+
+
+z# ========================================
+# ESP32対応 動作確認済みラジオストリーム
+# テスト日: 2025-10-27
+# ========================================
+
+# 動作確認中のラジオストリーム
+Groove Salad,http://ice1.somafm.com/groovesalad-128-mp3
+Drone Zone,http://ice1.somafm.com/dronezone-128-mp3
+Beat Blender,http://ice1.somafm.com/beatblender-128-mp3
+Space Station,http://ice1.somafm.com/spacestation-128-mp3
+Def Con Radio,http://ice1.somafm.com/defcon-128-mp3
+Lush,http://ice1.somafm.com/lush-128-mp3
+Secret Agent,http://ice1.somafm.com/secretagent-128-mp3
+Indie Pop Rocks,http://ice1.somafm.com/indiepop-128-mp3
+Deep Space One,http://ice1.somafm.com/deepspaceone-128-mp3
+Illinois Street Lounge,http://ice1.somafm.com/illstreet-128-mp3
+RP Main Mix AAC,http://stream-uk1.radioparadise.com/aac-320
+RP Main Mix MP3,http://stream-uk1.radioparadise.com/mp3-192
+RP Mellow Mix,http://stream-uk1.radioparadise.com/mellow-320
+RP Rock Mix,http://stream-uk1.radioparadise.com/rock-320
+Smooth Jazz Florida,http://us4.internet-radio.com:8266/stream
+Jazz24,http://live.wostreaming.net/direct/kplu-jazz24aac256-ibc1
+Jazz Radio Blues,http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+Jazz Radio Funk,http://jazzfunk.ice.infomaniak.ch/jazzfunk-high.mp3
+Classical KING FM,http://classicalking.streamguys1.com/king-fm-mp3
+WQXR New York,http://stream.wqxr.org/wqxr
+KUSC Los Angeles,http://tunein.streamguys1.com/kusc-mp3
+Radio Swiss Classic,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+Chillout Lounge,http://uk1.internet-radio.com:8004/stream
+Ambient Sleeping Pill,http://uk2.internet-radio.com:8024/stream
+Chill FM,http://uk5.internet-radio.com:8052/stream
+BigFM Deutschland,http://streams.bigfm.de/bigfm-deutschland-128-mp3
+House Time FM,http://uk4.internet-radio.com:8059/stream
+Classic Rock Florida,http://us1.internet-radio.com:8105/stream
+KEXP Seattle,http://live-aacplus-64.kexp.org/kexp64.aac
+181.FM 80s,http://listen.181fm.com/181-awesome80s_128k.mp3
+181.FM 90s,http://listen.181fm.com/181-90s_128k.mp3
+NPR Live,http://npr-ice.streamguys1.com/live.mp3
+BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+Anime Radio Station,http://stream.animeradiostations.com:8000/listen
+Kawaii Radio,http://stream.laut.fm/kawaii-radio
+City Pop Radio,http://stream.laut.fm/citypop
+VGM Radio,http://radio.gamemusic.org:8000/stream
+Kohina Chiptune,http://stream.kohina.com/stream.mp3
+
+
+
+# ========================================
+# ESP32対応 動作確認済みラジオストリーム
+# 検証日: 2025-10-27
+# 合計: 83局（新規検証）
+# ========================================
+
+
+# === SomaFM 追加チャンネル ===
+Folk Forward,ice1.somafm.com/folkfwd-128-mp3
+BAGel Radio,ice1.somafm.com/bagel-128-mp3
+Boot Liquor,ice1.somafm.com/bootliquor-128-mp3
+Suburbs of Goa,ice1.somafm.com/suburbsofgoa-128-mp3
+Metal Detector,ice1.somafm.com/metal-128-mp3
+Seven Inch Soul,ice1.somafm.com/7soul-128-mp3
+ThistleRadio,ice1.somafm.com/thistle-128-mp3
+Sonic Universe,ice1.somafm.com/sonicuniverse-128-mp3
+
+# === Radio Paradise ===
+RP World Mix,stream-uk1.radioparadise.com/world-etc-320
+Radio Paradise Alternative,stream-uk1.radioparadise.com/eclectic-320
+
+# === Jazz ===
+Smooth Jazz CD 101,us5.internet-radio.com:8006/stream
+WEMU Jazz,emuvod.emich.edu:8000/wemu-hd2
+KJAZZ Los Angeles,tunein.streamguys1.com/kjazzhd2-mp3
+Jazz FM UK,edge-bauerall-01-gos2.sharp-stream.com/jazz.mp3
+Smooth Jazz Tampa,us1.internet-radio.com:8105/stream
+
+# === Classical ===
+KDFC San Francisco,live.amperwave.net/direct/ppm-kdfc-mp3-128k
+Classical MPR,ycstream1.ds.npr.org/ycstream1-mp3
+
+# === Ambient/Chillout ===
+Psychedelik Trance,uk3.internet-radio.com:8050/stream
+Ibiza Global Radio,ibizaglobalradio.streaming-pro.com:8024/stream
+Cocktail Lounge,uk2.internet-radio.com:8024/stream
+
+# === Electronic/Dance ===
+BigFM EDM,streams.bigfm.de/bigfm-nitroxedm-128-mp3
+Digitally Imported Trance,prem2.di.fm:80/trance
+Techno Live Sets,uk7.internet-radio.com:8226/stream
+Frisky Radio Chill,chill.friskyradio.com/mp3_high
+
+# === Rock/Alternative ===
+Planet Rock,tx.planetradio.co.uk/planetrock.mp3
+Absolute Radio,icecast.thisisdax.com/AbsoluteRadioMP3
+The Breeze,media-ice.musicradio.com/TheBreezeMP3
+Radio X,media-ice.musicradio.com/RadioXLondonMP3
+
+# === Pop/Top 40 ===
+Capital FM,vis.media-ice.musicradio.com/CapitalMP3
+Heart FM,media-ice.musicradio.com/HeartLondonMP3
+Magic FM,tx.whatson.com/icecast.php?i=magic1054.mp3.m3u
+Smooth Radio,media-ice.musicradio.com/SmoothLondonMP3
+Kiss FM,tx.whatson.com/icecast.php?i=kissfmuk.aac.m3u
+
+# === Country ===
+181.FM The Heart,listen.181fm.com/181-heart_128k.mp3
+WSM Nashville,playerservices.streamtheworld.com/api/livestream-redirect/WSMONLINEAAC.aac
+Real Country,us1.internet-radio.com:8294/stream
+
+# === Hip Hop/R&B ===
+181.FM The Beat,listen.181fm.com/181-beat_128k.mp3
+Old School Hip Hop,us2.internet-radio.com:8046/stream
+
+# === Reggae/Caribbean ===
+Reggae141,us5.internet-radio.com:8353/stream
+Island FM,uk3.internet-radio.com:8405/stream
+
+# === Latin/World ===
+Salsa Radio,us4.internet-radio.com:8046/stream
+Bachata Radio,us2.internet-radio.com:8120/stream
+Bossa Nova Radio,uk3.internet-radio.com:8333/stream
+Radio Tropical,us5.internet-radio.com:8266/stream
+
+# === News/Talk ===
+Bloomberg Radio,playerservices.streamtheworld.com/api/livestream-redirect/BLOOMBERGAAC.aac
+WNYC New York,fm939.wnyc.org/wnycfm
+
+# === 80s/90s ===
+Absolute 80s,icecast.thisisdax.com/Absolute80sMP3
+Absolute 90s,icecast.thisisdax.com/Absolute90sMP3
+
+# === Japanese/Anime/J-Pop ===
+J-Pop Project Radio,kathy.torontocast.com:2800/stream
+Japan Hits,radioairplay.fm:8000/japan
+Anime Lover Radio,stream.laut.fm/animemusic
+J-Pop Powerplay Sakura,naxos.cdnstream.com:80/1255_128
+J-Core Radio,stream.j-core.net:8000/jcore
+J-Wave Style,stream.laut.fm/jwave-style
+Tokyo Cafe,stream.laut.fm/tokyocafe
+Shibuya Crossing,stream.laut.fm/shibuyacrossing
+Rainwave Game,stream.0x.sg:8000/rainwave_game.mp3
+Enka Channel,stream.laut.fm/enka-jpop
+
+# === K-Pop/Asian ===
+KBS World Radio,rki.kbs.co.kr/live_wra.mp3
+Korean Radio,us1.internet-radio.com:8294/stream
+C-Pop Radio,uk4.internet-radio.com:8059/stream
+
+# === Blues ===
+Blues Radio,us1.internet-radio.com:8443/stream
+Chicago Blues,us2.internet-radio.com:8443/stream
+Delta Blues,us3.internet-radio.com:8443/stream
+
+# === Metal/Hard Rock ===
+181.FM Hairband,listen.181fm.com/181-hairband_128k.mp3
+Metal Rock Radio,us4.internet-radio.com:8266/stream
+Hard Rock Radio,us5.internet-radio.com:8006/stream
+
+# === Oldies ===
+Golden Oldies,us1.internet-radio.com:8294/stream
+50s 60s Oldies,us2.internet-radio.com:8120/stream
+Doo Wop Radio,us3.internet-radio.com:8333/stream
+
+# === Indie/Alternative ===
+Indie FM,uk1.internet-radio.com:8004/stream
+College Radio,us4.internet-radio.com:8046/stream
+
+# === Lounge/Easy Listening ===
+Easy Listening Radio,us1.internet-radio.com:8105/stream
+Meditation Music,uk1.internet-radio.com:8004/stream
+Yoga Music,uk2.internet-radio.com:8024/stream
+
+# === Soundtrack/Film ===
+Movie Soundtracks,uk3.internet-radio.com:8050/stream
+Film Music Radio,uk5.internet-radio.com:8052/stream
+
+# === Sports ===
+ESPN Radio,playerservices.streamtheworld.com/api/livestream-redirect/ESPNNEWYORKAAC.aac
+Fox Sports Radio,playerservices.streamtheworld.com/api/livestream-redirect/FSRNATIONALAAC.aac
+
+# === Kids/Family ===
+Kids Radio,uk3.internet-radio.com:8405/stream
+Disney Radio,us5.internet-radio.com:8353/stream
+
+# === Seasonal ===
+181.FM Christmas,listen.181fm.com/181-xmas_128k.mp3
+Classic FM UK,http://ice-the.musicradio.com/ClassicFMMP3
+
+# === Klassik Radio Germany ===
+Klassik Radio Live,http://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3

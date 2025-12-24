@@ -1,0 +1,36 @@
+# ========================================
+# 新規追加ステーション
+# 追加日: 2025-10-29
+# ========================================
+
+# === Classic FM UK ===
+Classic FM UK,http://ice-the.musicradio.com/ClassicFMMP3
+
+# === Radio Swiss Classic (動作確認済み) ===
+Radio Swiss Classic,http://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128
+
+# === NRK Klassisk Norway (動作確認済み) ===
+NRK Klassisk,http://lyd.nrk.no/nrk_radio_klassisk_mp3_h
+
+
+# === WDR 3 Germany (動作確認済み) ===
+WDR 3,http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+
+
+# === All Classical Portland USA (動作確認済み) ===
+All Classical Portland,http://allclassical.streamguys1.com/ac96kmp3
+
+# === Classical MPR Minnesota USA (動作確認済み) ===
+Classical MPR,http://cms.stream.publicradio.org/cms.mp3
+
+# === WQXR New York USA (動作確認済み) ===
+WQXR New York,http://stream.wqxr.org/wqxr
+
+# === Abacus.fm Classical (動作確認済み) ===
+Abacus.fm Classical,http://s20.reliastream.com:8100/stream
+
+# === Rondo Classic Finland (動作確認済み) ===
+Rondo Classic Klasu PRO,http://iradio.fi:8000/klasupro-hi.mp3
+
+Live365 KKJZ,https://das-edge14-live365-dal02.cdnstream.com/a49833
+KMHD (OPB),https://ais-sa3.cdnstream1.com/2442_128.aac
